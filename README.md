@@ -11,5 +11,3 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000)
-
-<a href='https://blakfymovie.netlify.app'>Live Site</a>
